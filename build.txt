@@ -1,0 +1,10 @@
+displayName = Simple Transfer
+author = djslapandtickle
+version = 0.1
+displayName = Example Mod
+homepage = https://superepicfuntime.com
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

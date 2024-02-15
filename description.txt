@@ -1,0 +1,3 @@
+Adds simple pipes to transfer items between inventories.
+
+Includes MagicStorage support.

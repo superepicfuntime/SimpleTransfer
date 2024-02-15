@@ -1,0 +1,25 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	ItemPipe: {
+		DisplayName: Item Pipe
+		Tooltip: ""
+	}
+
+	PipeWrench: {
+		DisplayName: Pipe Wrench
+		Tooltip: ""
+	}
+
+	PipeWrenchProjectile: {
+		DisplayName: PipeWrenchProjectile
+		Tooltip: ""
+	}
+}
+
+Projectiles.PipeWrenchProjectile.DisplayName: Pipe Wrench Projectile
+
+Configs: {
+	SimpleTransferConfig.DisplayName: Simple Transfer Config
+	SimpleTransferConfigClient.DisplayName: Simple Transfer Config Client
+}
